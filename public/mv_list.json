@@ -337,7 +337,7 @@
     "track_list": ["그렇더라고요", "누군가 필요해"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-09-29",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #d5d5d5 0%, #6c4816 46%, #e36bc5 100%);"
   },
   {
     "album": "Every DAY6 September",
@@ -348,7 +348,7 @@
     "track_list": ["I Loved You", "남겨둘게"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-09-06",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #cdcdcd 0%, #1e1e1e 46%, #517ee3 100%);"
   },
   {
     "album": "Every DAY6 August",
@@ -359,7 +359,7 @@
     "track_list": ["좋은걸 뭐 어떡해", "놀래!"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-08-07",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #cdcdcd 0%, #1e1e1e 46%, #8ac305 100%);"
   },
   {
     "album": "Every DAY6 July",
@@ -370,7 +370,7 @@
     "track_list": ["Hi Hello", "Be Lazy"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-07-06",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #cdcdcd 0%, #1e1e1e 46%, #c5034a 100%);"
   },
   {
     "album": "SUNRISE",
@@ -407,7 +407,7 @@
     "track_list": ["DANCE DANCE", "Man in a movie"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-05-08",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #cfd1d0 0%, #1d1d1d 46%, #08404f 100%);"
   },
   {
     "album": "Every DAY6 April",
@@ -418,7 +418,7 @@
     "track_list": ["장난 아닌데", "Say Wow"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-04-06",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #d0d0d0 0%, #1e1e1e 46%, #d3d3d3 100%);"
   },
   {
     "album": "Every DAY6 March",
@@ -429,7 +429,7 @@
     "track_list": ["어떻게 말해", "그럴 텐데"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-03-06",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #d0d0d0 0%, #08a0c5 46%, #d2d4d3 100%);"
   },
   {
     "album": "Every DAY6 February",
@@ -440,7 +440,7 @@
     "track_list": ["예뻤어", "My Day"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-02-06",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #cfd1d0 0%, #991791 46%, #d3d3d3 100%);"
   },
   {
     "album": "Every DAY6 JanuaryJanuary",
@@ -451,7 +451,7 @@
     "track_list": ["아 왜 (I Wait)", "겨울이 간다"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-01-06",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #ced0cf 0%, #e24733 46%, #d2d4d3 100%);"
   },
   {
     "album": "DAYDREAM",
@@ -462,7 +462,7 @@
     "track_list": ["First Time", "Blood", "놓아 놓아 놓아", "Sing Me", "바래", "Hunt"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2016-03-30",
-    "gradients": ""
+    "gradients": "linear-gradient(157deg, #5ac2c5 0%, #2b4546 50%, #5cc6c6 100%);"
   },
   {
     "album": "The Day",
@@ -473,6 +473,6 @@
     "track_list": ["Free하게", "이상하게 계속 이래", "Congratulations", "버릇이 됐어", "태양처럼", "Colors"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2015-09-07",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #ad8a8e 0%, #d7c3bc 46%, #ae9193 100%);"
   }
 ]
