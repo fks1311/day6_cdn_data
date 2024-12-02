@@ -233,7 +233,7 @@
     ],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2019-10-22",
-    "gradients": ""
+    "gradients": "linear-gradient(135deg, #707070 0%, #825053 50%, #69615f 100%);"
   },
   {
     "album": "The Book of Us : Gravity",
@@ -244,7 +244,7 @@
     "track_list": ["For me", "한 페이지가 될 수 있게", "How to love", "돌아갈래요", "포장", "Best Part"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2019-07-15",
-    "gradients": ""
+    "gradients": "linear-gradient(135deg, #1b2a12 0%, #762d1b 50%, #15180c 100%);"
   },
   {
     "album": "Remember Us : Youth Part 2",
@@ -255,7 +255,7 @@
     "track_list": ["아픈 길", "행복했던 날들이었다", "두통", "121U", "완전 멋지잖아", "마라톤", "Beautiful Feeling"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2018-12-10",
-    "gradients": ""
+    "gradients": "linear-gradient(90deg, #88b9d7 0%, #795f68 60%, #0faada 100%);"
   },
   {
     "album": "Beautiful Feeling",
@@ -266,7 +266,7 @@
     "track_list": ["Beautiful Feeling"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2018-09-10",
-    "gradients": ""
+    "gradients": "linear-gradient(155deg, #cfc1b6 0%, #353770 60%, #aaa7a0 100%);"
   },
   {
     "album": "Shoot Me : Youth Part 1",
@@ -285,7 +285,7 @@
     ],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2018-06-26",
-    "gradients": ""
+    "gradients": "linear-gradient(157deg, #cfc7d2 0%, #d01714 50%, #5a3c32 100%);"
   },
   {
     "album": "MOONRISE",
@@ -315,7 +315,7 @@
     ],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-12-06",
-    "gradients": ""
+    "gradients": "linear-gradient(121deg, #000000 0%, #ac8540 46%, #000000 100%);"
   },
   {
     "album": "Every DAY6 November",
@@ -326,7 +326,7 @@
     "track_list": ["혼자야", "쏟아진다"],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-11-06",
-    "gradients": ""
+    "gradients": "linear-gradient(113deg, #ef8d06 0%, #9893a7 50%, #f38d05 100%);"
   },
   {
     "album": "Every DAY6 October",
@@ -373,7 +373,7 @@
     "gradients": ""
   },
   {
-    "album": "Every DAY6 July",
+    "album": "SUNRISE",
     "cover": "/assets/SUNRISE.jpg",
     "title": "반드시 웃는다",
     "videoId": "g4V36AfI4Ng",
@@ -396,7 +396,7 @@
     ],
     "channelTitle": "JYP Entertainment",
     "publishTime": "2017-06-07",
-    "gradients": ""
+    "gradients": "linear-gradient(192deg, #6899b7 0%, #a79f88 50%, #454a4d 100%);"
   },
   {
     "album": "Every DAY6 May",
