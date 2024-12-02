@@ -18,7 +18,8 @@
       "Memories"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2024-11-05"
+    "publishTime": "2024-11-05",
+    "gradients": "linear-gradient(121deg, #dae2e5 0%, #18364e 46%, #182128 100%)"
   },
   {
     "album": "Band Aid",
@@ -37,7 +38,8 @@
       "아직 거기 살아"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2024-09-02"
+    "publishTime": "2024-09-02",
+    "gradients": "linear-gradient(160deg, #dc8b7a 0%, #ce4727 50%, #602b23 100%)"
   },
   {
     "album": "Fourever",
@@ -55,7 +57,8 @@
       "그게 너의 사랑인지 몰랐어"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2024-03-18"
+    "publishTime": "2024-03-18",
+    "gradients": "linear-gradient(225deg, #e3c5a3 0%, #9b9178 50%, #979856 100%);"
   },
   {
     "album": "Letters with notes",
@@ -77,7 +80,8 @@
       "what is.."
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2023-09-04"
+    "publishTime": "2023-09-04",
+    "gradients": "linear-gradient(270deg, #030934 0%, #959595 50%, #070d39 100%);"
   },
   {
     "album": "Pilmography",
@@ -98,7 +102,8 @@
       "행운을 빌어 줘"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2022-02-07"
+    "publishTime": "2022-02-07",
+    "gradients": "linear-gradient(90deg, #8a82ab 0%, #1b1b19 50%, #9f9bb4 100%);"
   },
   {
     "album": "Out of the Blue",
@@ -108,7 +113,8 @@
     "thumbnails": "",
     "track_list": [" 문득 (Duet with 송희진)", "문득 (Duet with 송희진) Inst."],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2021-09-27"
+    "publishTime": "2021-09-27",
+    "gradients": " linear-gradient(90deg, #b6cfe5 0%, #f2f2f4 50%, #abc2d4 100%);"
   },
   {
     "album": "Eternal",
@@ -126,7 +132,8 @@
       "잘 자라 내 사람아"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2021-09-06"
+    "publishTime": "2021-09-06",
+    "gradients": " linear-gradient(90deg, #01bde2 0%, #033b46 50%, #01bce1 100%);"
   },
   {
     "album": "Right Through Me",
@@ -144,7 +151,8 @@
       "LOVE PARADE"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2021-07-05"
+    "publishTime": "2021-07-05",
+    "gradients": "linear-gradient(45deg, #709e7a 0%, #839058 50%, #20460d 100%);"
   },
   {
     "album": "The Book of Us : Negentropy",
@@ -162,7 +170,8 @@
       "우리 앞으로 더 사랑하자"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2021-04-19"
+    "publishTime": "2021-04-19",
+    "gradients": "linear-gradient(135deg, #000000 0%, #c28244 50%, #c57d35 100%);"
   },
   {
     "album": "The Book of Us : Gluon",
@@ -180,7 +189,8 @@
       "To be continued -Outro- (Sung by DENIMALZ 3)"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2020-08-31"
+    "publishTime": "2020-08-31",
+    "gradients": "linear-gradient(150deg, #180f14 0%, #d1c8db 50%, #7881ac 100%);"
   },
   {
     "album": "The Book of Us : The Demon",
@@ -199,7 +209,8 @@
       "Zombie (English Ver.)"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2020-05-11"
+    "publishTime": "2020-05-11",
+    "gradients": "linear-gradient(135deg, #fff3f1 0%, #1e1e1e 50%, #ffffff 100%);"
   },
   {
     "album": "The Book of Us : Entropy",
@@ -221,7 +232,8 @@
       "마치 흘러가는 바람처럼"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2019-10-22"
+    "publishTime": "2019-10-22",
+    "gradients": ""
   },
   {
     "album": "The Book of Us : Gravity",
@@ -231,7 +243,8 @@
     "thumbnails": "",
     "track_list": ["For me", "한 페이지가 될 수 있게", "How to love", "돌아갈래요", "포장", "Best Part"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2019-07-15"
+    "publishTime": "2019-07-15",
+    "gradients": ""
   },
   {
     "album": "Remember Us : Youth Part 2",
@@ -241,7 +254,8 @@
     "thumbnails": "",
     "track_list": ["아픈 길", "행복했던 날들이었다", "두통", "121U", "완전 멋지잖아", "마라톤", "Beautiful Feeling"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2018-12-10"
+    "publishTime": "2018-12-10",
+    "gradients": ""
   },
   {
     "album": "Beautiful Feeling",
@@ -251,7 +265,8 @@
     "thumbnails": "",
     "track_list": ["Beautiful Feeling"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2018-09-10"
+    "publishTime": "2018-09-10",
+    "gradients": ""
   },
   {
     "album": "Shoot Me : Youth Part 1",
@@ -269,7 +284,8 @@
       "Shoot Me (Inst.) (CD ONLY)"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2018-06-26"
+    "publishTime": "2018-06-26",
+    "gradients": ""
   },
   {
     "album": "MOONRISE",
@@ -298,7 +314,8 @@
       "Free하게 (Final Ver.) (CD ONLY)"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-12-06"
+    "publishTime": "2017-12-06",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 November",
@@ -308,7 +325,8 @@
     "thumbnails": "",
     "track_list": ["혼자야", "쏟아진다"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-11-06"
+    "publishTime": "2017-11-06",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 October",
@@ -318,7 +336,8 @@
     "thumbnails": "",
     "track_list": ["그렇더라고요", "누군가 필요해"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-09-29"
+    "publishTime": "2017-09-29",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 September",
@@ -328,7 +347,8 @@
     "thumbnails": "",
     "track_list": ["I Loved You", "남겨둘게"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-09-06"
+    "publishTime": "2017-09-06",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 August",
@@ -338,7 +358,8 @@
     "thumbnails": "",
     "track_list": ["좋은걸 뭐 어떡해", "놀래!"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-08-07"
+    "publishTime": "2017-08-07",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 July",
@@ -348,7 +369,8 @@
     "thumbnails": "",
     "track_list": ["Hi Hello", "Be Lazy"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-07-06"
+    "publishTime": "2017-07-06",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 July",
@@ -373,7 +395,8 @@
       "Congratulations (Final Ver.)"
     ],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-06-07"
+    "publishTime": "2017-06-07",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 May",
@@ -383,7 +406,8 @@
     "thumbnails": "",
     "track_list": ["DANCE DANCE", "Man in a movie"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-05-08"
+    "publishTime": "2017-05-08",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 April",
@@ -393,7 +417,8 @@
     "thumbnails": "",
     "track_list": ["장난 아닌데", "Say Wow"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-04-06"
+    "publishTime": "2017-04-06",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 March",
@@ -403,7 +428,8 @@
     "thumbnails": "",
     "track_list": ["어떻게 말해", "그럴 텐데"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-03-06"
+    "publishTime": "2017-03-06",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 February",
@@ -413,7 +439,8 @@
     "thumbnails": "",
     "track_list": ["예뻤어", "My Day"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-02-06"
+    "publishTime": "2017-02-06",
+    "gradients": ""
   },
   {
     "album": "Every DAY6 JanuaryJanuary",
@@ -423,7 +450,8 @@
     "thumbnails": "",
     "track_list": ["아 왜 (I Wait)", "겨울이 간다"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2017-01-06"
+    "publishTime": "2017-01-06",
+    "gradients": ""
   },
   {
     "album": "DAYDREAM",
@@ -433,7 +461,8 @@
     "thumbnails": "",
     "track_list": ["First Time", "Blood", "놓아 놓아 놓아", "Sing Me", "바래", "Hunt"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2016-03-30"
+    "publishTime": "2016-03-30",
+    "gradients": ""
   },
   {
     "album": "The Day",
@@ -443,6 +472,7 @@
     "thumbnails": "",
     "track_list": ["Free하게", "이상하게 계속 이래", "Congratulations", "버릇이 됐어", "태양처럼", "Colors"],
     "channelTitle": "JYP Entertainment",
-    "publishTime": "2015-09-07"
+    "publishTime": "2015-09-07",
+    "gradients": ""
   }
 ]
